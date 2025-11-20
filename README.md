@@ -1,4 +1,4 @@
-# TechyBechy Resource Pack
+# Techy Bechy Resource Pack
 
 A custom Minecraft resource pack created for the TechyBechy server.  
 This pack adds:

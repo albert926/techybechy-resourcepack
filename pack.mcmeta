@@ -1,14 +1,6 @@
-﻿{
-  "pack": {
-    "pack_format": 46,
-    "description": {
-      "text": "Offical Resource Pack",
-      "extra": [
-        { "text": "Techy Bechy", "color": "dark_green" },
-        { "text": " Resource Pack ", "color": "white" },
-        { "text": "1.21.8 ", "color": "gray" },
-        { "text": "v1.0.0", "color": "dark_gray" }
-      ]
+{
+    "pack": {
+        "pack_format": 8,
+        "description": "§2Techy§3Bechy§6Resources §1.1.0§r for §2Techy Bechy§3Server §1.1.0."
     }
-  }
 }

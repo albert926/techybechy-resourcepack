@@ -1619,13 +1619,6 @@
                         "type": "model",
                         "model": "minecraft:item/diamond_hoe"
                     }
-                },
-                {
-                    "threshold": 0.8175416133162612,
-                    "model": {
-                        "type": "model",
-                        "model": "minecraft:custom/tbcustom/tblogo"
-                    }
                 }
             ]
         }

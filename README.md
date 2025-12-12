@@ -11,8 +11,8 @@ This pack adds:
 
 ## Credits
 
-### Weapon Master
-Resource models integrated with and inspired by the Weapon Master project.  
+### Ultimate Foods
+Resource models integrated with and inspired by the Ultimate Foods project.  
 Creator: https://github.com/greatericontop/weaponmaster
 
 ### MTVehicles (MinetopiaVehicles)
@@ -22,7 +22,7 @@ Creator: https://github.com/MTVehicles/MinetopiaVehicles
 ## What This Pack Does
 
 - Adds custom models for tools, weapons, vehicles, and special items
-- Provides Weapon Master model support
+- Provides Ultimate Foods model support
 - Provides MTVehicles texture support
 - Includes custom textures for TechyBechy logos, UI, and items (soon)
 - Leaves all other vanilla Minecraft textures untouched (should)

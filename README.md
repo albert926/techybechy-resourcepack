@@ -13,7 +13,7 @@ This pack adds:
 
 ### Ultimate Foods
 Resource models integrated with and inspired by the Ultimate Foods project.  
-Creator: https://github.com/greatericontop/weaponmaster
+Creator: https://www.spigotmc.org/resources/%E2%9C%A8ultimate-foods-%E2%9C%85-230-custom-foods-%E2%9C%85-1-21-9-food-textures-categories-recipes-%E2%9C%A8.108082/
 
 ### MTVehicles (MinetopiaVehicles)
 Includes custom textures and assets for use with the MTVehicles plugin.  

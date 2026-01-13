@@ -5,7 +5,7 @@ This pack adds:
 
 - Custom weapon models
 - Custom vehicle textures
-- WeaponMaster-compatible models
+- UltimateFoods-compatible models
 - MTVehicles-compatible assets
 - Unique TechyBechy branding and visual style
 
